@@ -10,5 +10,5 @@ alias c='docker run -it --rm -v $PWD/work -w /work himaoka/sls-bulder:python37'
 c sls
 ```
 
-# Contains
+# Contains packages
 `build-essentials` only.
